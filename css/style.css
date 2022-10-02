@@ -1,0 +1,74 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+
+}
+.navbar-top{
+    background-color:grey;
+}
+
+.navbar-info div p{
+    margin-bottom: 0;
+}
+
+
+section .card{
+
+}
+
+
+/* ---------footer--------- */
+footer h4{
+    text-decoration: underline;
+    padding: 3px;
+}
+
+footer .col:first-of-type p {
+    padding: 0.5rem;
+}
+
+footer{
+    font-size: 0.9rem;
+}
+
+footer ul{
+    list-style: none;
+    padding: 0.5rem;
+}
+
+
+/* TESTING */
+
+section:nth-of-type(odd){
+    background-color: #888;
+}
+
+/* TESTING */
+
+/* kontakt */
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+}
+
+.contact ul{
+    list-style: none;
+    padding: 0.5rem;
+}
+.form textarea,
+.form input{
+    margin: 5px 0;
+}
+
+
+/* o_firmie */
+
+.company .row div{
+
+    /* border: 3px solid black; */
+}
